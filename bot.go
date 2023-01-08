@@ -186,7 +186,7 @@ import (
 )
 
 var (
-	nicks  = []string{"彼岸之花"}
+	nicks  = []string{"彼岸双生"}
 	adana  *string
 	prefix *string
 )
